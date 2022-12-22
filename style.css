@@ -1,0 +1,17 @@
+body{
+    font-family: "Times New Roman",sans-serif;
+    background-color: khaki;
+}
+
+img{
+    width: 250px;
+    height: auto;
+}
+
+.title {
+    font-style: italic;
+    color: brown;
+}
+h1 {
+    color: rgb(78, 3, 3);
+}
